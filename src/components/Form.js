@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#fff",
     borderWidth: 1,
     borderColor: "#939393",
-    marginTop: -0.16*height,
+    marginTop: -0.23*height,
     alignSelf: "center",
     paddingVertical: 5,
     paddingHorizontal: 30,
@@ -78,3 +78,4 @@ const styles = StyleSheet.create({
     fontSize: 15,
   },
 });
+

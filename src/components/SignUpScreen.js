@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
   },
   signUptext: {
     fontSize: 26,
-    marginTop: 100,
+    marginTop: 70,
     fontWeight: "bold",
     color: "#FFF",
   },
@@ -123,3 +123,4 @@ const styles = StyleSheet.create({
     width: 30,
   },
 });
+
